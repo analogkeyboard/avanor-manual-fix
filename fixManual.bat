@@ -1,0 +1,13 @@
+ren INDEX~1.html index.html
+ren INTRO~1.html intro.html
+ren QSTART~1.html qstart.html
+ren KBLAYO~1.html kblayout.html
+ren BASIC~1.html basic.html
+ren MAGIC~1.html magic.html
+ren SKILLS~1.html skills.html
+ren WSKILL~1.html wskills.html
+ren EQUIPM~1.html equipment.html
+ren TACTIC~1.html tactics.html
+ren MISC~1.html misc.html
+ren TESTMO~1.html testmode.html
+ren CREDIT~1.html credits.html
